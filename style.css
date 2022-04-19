@@ -1,0 +1,28 @@
+/* Add your styles here */
+tr{
+
+    background-color: rgba(204, 204, 204, 0.315);
+    border-bottom: 20px;
+    border-top: 20px;
+}
+
+#cabe{
+    background-color: rgb(255, 255, 255);
+}
+div.col{
+    width: min-content;
+    
+}
+div.row{
+    width: min-content;
+   
+}
+pre{
+    color: black;
+}
+pre.cal{
+    color: blue;
+}
+#prom{
+    background-color: rgb(255, 255, 255);
+}
